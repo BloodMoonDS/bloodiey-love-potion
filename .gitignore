@@ -1,0 +1,7 @@
+*.rpyc
+*.rpa
+*.rpymc
+*errors.txt
+*log.txt
+*traceback.txt
+*.bak
