@@ -5,3 +5,5 @@
 *log.txt
 *traceback.txt
 *.bak
+/game/saves
+*.save
