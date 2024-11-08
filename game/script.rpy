@@ -218,21 +218,16 @@ label start:
         Bloodiey "No Alterar el orden con tus acciones"
         Bloodiey "Basicamente No mates a Nadie"
         Bloodiey "Numero 2:"
-        Bloodiey "No puedes accedar a todos los universos"
+        Bloodiey "No puedes accedar a algunos universos"
         Bloodiey "Sobre todo aquellos que sean aterradores"
         Bloodiey "En caso De entrar en uno salga inmediatamente"
-        Bloodiey "Y esas son todas"
+        Bloodiey "Y esas son todas las reglas"
         jump afterCosmicRules
 
     label afterCosmicRules: 
     Bloodiey "Bueno sigamos"
     Bloodiey "¿Estas Listo para entrar al Multiverso?"
     Bloodiey "¡Por que yo si lo estoy!"
-
-    scene bg secrethouse
-
-    "parece que estan en un cuarto"
-    "Asi que va a ser complicado"
     
     # Here starts the Hub shit Maybe
     
