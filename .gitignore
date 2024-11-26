@@ -7,3 +7,8 @@
 *.bak
 /game/saves
 *.save
+*.keystore
+**/cache/
+**/*.rpymc
+**/*.rpa
+**/*.rpyc
