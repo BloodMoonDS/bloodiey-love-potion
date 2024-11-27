@@ -6,6 +6,7 @@
 *traceback.txt
 *.bak
 /game/saves
+/game/cache
 *.save
 *.keystore
 **/cache/
